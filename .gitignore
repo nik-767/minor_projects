@@ -8,5 +8,12 @@
 !/rock_paper_scissor/
 !/tic_tac_toe/
 
+# Allow all files inside those folders
+!/calculator/**
+!/50_js_projects/**
+!/Chatgpt_Clone_Source_Code/**
+!/rock_paper_scissor/**
+!/tic_tac_toe/**
+
 # Do not ignore the .gitignore file itself
 !.gitignore
