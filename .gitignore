@@ -1,12 +1,12 @@
 # Ignore everything by default
 *
 
-# Allow folders
+# Allow selected folders
 !/calculator/
-!/50 js projects/
-!/Chatgpt Clone Source Code/
-!/rock.paper.scissor/
-!/tic-tac-toe/
+!/50_js_projects/
+!/Chatgpt_Clone_Source_Code/
+!/rock_paper_scissor/
+!/tic_tac_toe/
 
 # Do not ignore the .gitignore file itself
 !.gitignore
